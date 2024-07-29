@@ -59,9 +59,6 @@
     "@reinmar/ckeditor5-maximum-length": "^0.0.1",
     "ckeditor5": "^42.0.0"
   },
-  "peerDependencies": {
-    "@strapi/strapi": "^4.4.0"
-  },
   "repository": {
     "type": "git",
     "url": "https://github.com/ckeditor/strapi-plugin-ckeditor.git"
